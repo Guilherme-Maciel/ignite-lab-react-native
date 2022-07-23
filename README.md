@@ -1,5 +1,9 @@
 # ROCKET HELP
 
+<p align="center">
+  <img src="https://evento.rocketseat.com.br/_next/image?url=%2Flogos%2Fignite-lab-react-native-logo.svg&w=384&q=100" alt="ignite lab"/>
+</p>
+
 Aplicação de escalonamento de chamados/solicitações e cadastro de soluções criada em React Native e Firebase.
 
 ## TECNOLOGIAS & BIBLIOTECAS
