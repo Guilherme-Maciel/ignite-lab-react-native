@@ -20,7 +20,7 @@ Aplicação de escalonamento de chamados/solicitações e cadastro de soluções
 - Noções da tecnologia React Native;
 - Componentização e boas práticas em linguagem TypeScript;
 - Configurações do compilador do TypeScript;
-- Uso de avançado de Props e States;
+- Uso avançado de Props e States;
 - Uso de ícones importados;
 - Instalação de fontes para o projeto;
 - Uso do Expo Bear Workflow, permitindo um fluxo gerenciado e acesso às pastas nativas;
